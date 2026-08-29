@@ -83,12 +83,3 @@ Jay Parekh
 Data Analyst | Data Analytics Enthusiast
 
 Skills: SQL • Python • Excel • Power BI • DAX • Power Query • Data Visualization
-
-📁 Suggested GitHub Structure
-Amazon-Sales-PowerBI/
-│
-├── README.md
-├── Amazon_Sales_Dashboard.pbix
-├── dashboard.png
-└── dataset/
-    └── amazon_sales_data.csv
